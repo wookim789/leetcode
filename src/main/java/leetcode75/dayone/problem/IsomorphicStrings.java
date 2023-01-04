@@ -1,4 +1,4 @@
-package leetcode75.seventyfive.dayone;
+package leetcode75.dayone.problem;
 
 import java.util.ArrayList;
 import java.util.HashSet;

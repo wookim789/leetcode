@@ -1,4 +1,4 @@
-package leetcode75.seventyfive.dayone.datatype;
+package leetcode75.dayone.datatype;
 
 public class ListNode {
     public int val;

@@ -1,6 +1,7 @@
-package leetcode75.seventyfive.dayone;
+package leetcode75.dayone.problem;
 
-import leetcode75.seventyfive.dayone.datatype.ListNode;
+import leetcode75.dayone.datatype.ListNode;
+import leetcode75.dayone.problem.SplitLinkedListParts;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

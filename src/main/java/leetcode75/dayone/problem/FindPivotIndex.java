@@ -1,4 +1,4 @@
-package leetcode75.seventyfive.dayone;
+package leetcode75.dayone.problem;
 
 public class FindPivotIndex {
     public static int pivotIndex(int[] nums) {

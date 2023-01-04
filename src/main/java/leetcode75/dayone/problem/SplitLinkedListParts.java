@@ -1,9 +1,7 @@
-package leetcode75.seventyfive.dayone;
+package leetcode75.dayone.problem;
 
 
-import leetcode75.seventyfive.dayone.datatype.ListNode;
-
-import java.util.List;
+import leetcode75.dayone.datatype.ListNode;
 
 public class SplitLinkedListParts {
     /*

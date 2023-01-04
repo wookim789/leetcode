@@ -1,5 +1,5 @@
-import leetcode75.seventyfive.dayone.SplitLinkedListParts;
-import leetcode75.seventyfive.dayone.datatype.ListNode;
+import leetcode75.dayone.problem.SplitLinkedListParts;
+import leetcode75.dayone.datatype.ListNode;
 
 public class Main {
     public static void main(String []args){
