@@ -1,4 +1,4 @@
-package leetcode75.dayone.problem;
+package leetcode.dayone.problem;
 
 
 public class IsSubsequence {

@@ -1,6 +1,5 @@
-package leetcode75.dayone.problem;
+package leetcode.dayone.problem;
 
-import leetcode75.dayone.problem.IsSubsequence;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.*;
