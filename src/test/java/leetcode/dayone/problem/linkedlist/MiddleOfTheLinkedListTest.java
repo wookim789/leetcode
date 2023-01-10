@@ -1,7 +1,8 @@
-package leetcode.dayone.problem;
+package leetcode.dayone.problem.linkedlist;
 
 
 import leetcode.dayone.datatype.ListNode;
+import leetcode.dayone.problem.linkedlist.MiddleOfTheLinkedList;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

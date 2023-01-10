@@ -1,4 +1,4 @@
-package leetcode.dayone.problem;
+package leetcode.dayone.problem.linkedlist;
 
 import leetcode.dayone.datatype.ListNode;
 import org.junit.jupiter.api.Test;
