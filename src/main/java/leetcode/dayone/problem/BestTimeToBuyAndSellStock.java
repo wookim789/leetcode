@@ -1,7 +1,5 @@
 package leetcode.dayone.problem;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class BestTimeToBuyAndSellStock {
     /*
