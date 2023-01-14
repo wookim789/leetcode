@@ -8,7 +8,7 @@ public class Main {
          *
          * [boundary condition]
          *
-         * [line]
+         * [link]
          *
          * */
     }
