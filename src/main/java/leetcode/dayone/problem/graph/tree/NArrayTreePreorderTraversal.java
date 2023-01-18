@@ -1,4 +1,4 @@
-package leetcode.dayone.problem;
+package leetcode.dayone.problem.graph.tree;
 
 import leetcode.dayone.datatype.Node;
 
