@@ -34,8 +34,6 @@ public class BinaryTreeLevelOrderTraversal {
     List<List<Integer>> result;
 
     public List<List<Integer>> levelOrder(TreeNode root) {
-        // 트리의 레벨(깊이)별 2개씩 묶어서 데이터 리턴
-
         if (root == null) {
             return new ArrayList<>();
         }
