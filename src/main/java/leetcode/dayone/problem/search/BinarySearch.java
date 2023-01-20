@@ -26,10 +26,10 @@ public class BinarySearch {
 
     public int binarySearch(int[] nums, int target) {
 
-
         int sdx = 0;
         int edx = nums.length - 1;
         int result = -1;
+
         while(sdx <= edx){
             int mdx = (edx + sdx) / 2;
 
