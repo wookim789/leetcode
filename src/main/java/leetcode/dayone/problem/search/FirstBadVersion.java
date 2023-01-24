@@ -1,8 +1,5 @@
 package leetcode.dayone.problem.search;
 
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
-
 public class FirstBadVersion {
     /*
      * [problem]
